@@ -1,2 +1,2 @@
-# jekyll-simplecss-template
-A Jekyll template that uses Simple.css and no plugins
+# Jekyll Simple.css Template
+A Jekyll template that uses [Simple.css](https://simplecss.org) and no plugins
