@@ -1,0 +1,17 @@
+title: Jekyll Template # Add the title for your site here.
+description: This is just a template. # Add a description for your site here.
+lang: en
+locale: en_GB # Change this based on your locale - https://www.w3schools.com/tags/ref_language_codes.asp
+url: "" # Add you site's domain here. E.g. "https://example.com"
+logo: /assets/images/favicon.png # Change this to be your favicon
+
+# You don't need to change any of this stuff
+baseurl: ""
+permalink: :title
+
+# Syntax Highlighting
+highlighter: rouge
+
+# If you want to add more plugins, do so here
+plugins:
+  - jekyll-sitemap
